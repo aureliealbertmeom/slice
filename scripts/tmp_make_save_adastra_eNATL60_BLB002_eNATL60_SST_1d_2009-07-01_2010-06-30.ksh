@@ -1,0 +1,2 @@
+ ./tmp_script_save_adastra_eNATL60_BLB002_eNATL60_SST_1d_2009.ksh
+ ./tmp_script_save_adastra_eNATL60_BLB002_eNATL60_SST_1d_2010.ksh
